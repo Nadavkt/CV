@@ -1,0 +1,12 @@
+*{
+  background-color: lightcyan;
+}
+
+hr{
+  background-color: white;
+  border-style: none;
+  height: 5px;
+}
+img{
+  height: 250px;
+}
